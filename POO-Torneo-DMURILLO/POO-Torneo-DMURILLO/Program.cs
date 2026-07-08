@@ -3,7 +3,7 @@
 Console.WriteLine("***************->Torneo Diego Murillo<-***************");
 Jugador objJugador1 = new Jugador("Piero Hincapié", 24, 4, "Defensa");
 
-Jugador objJugador2 = new Jugador("Enner Valencia", 32, 700, "Delantero");
+Jugador objJugador2 = new Jugador("Enner Valencia", 32, 7, "Delantero");
 
 Equipo objEquipo1 = new Equipo("Emelec", "Guayaquil");
 
@@ -14,7 +14,7 @@ objEquipo1.AgregarJugador(objJugador2);
 
 objEquipo1.ListarPlantilla();
 
-Jugador objJugador3 = new Jugador("Moiséc Caicedo", 23, 5, "Medio Campo");
+Jugador objJugador3 = new Jugador("Moises Caicedo", 23, 5, "Medio Campo");
 
 
 Jugador objJugador4 = new Jugador("Neiser Reascos", 45, 24, "Lateral");
