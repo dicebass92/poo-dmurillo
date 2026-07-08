@@ -20,8 +20,28 @@ namespace POO_Torneo_DMURILLO.Models
 
         public void AgregarJugador(Jugador objJugador)
         {
-            this.Jugadores.Add(objJugador);
-            Console.WriteLine($"Jugador {objJugador.Nombre} agregado correctamente");
+            if (ValidarNotNull(objJugador))
+            {
+                this.Jugadores.Add(objJugador);
+                Console.WriteLine($"Jugador {objJugador.Nombre} agregado correctamente");
+            }
+            else
+            {
+                Console.WriteLine("Error: El jugador no puede ser null");
+            }   
+        }
+
+        //Validación de que jugador no sea null by dmurillo
+        public Boolean ValidarNotNull(Jugador objJugador)
+        {
+            if (objJugador.Nombre == "")
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
 
         public void ListarPlantilla()

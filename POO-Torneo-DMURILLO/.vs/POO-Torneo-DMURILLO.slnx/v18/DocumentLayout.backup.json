@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\TorneoPOO_DMURILLO\\POO-DMURILLO\\POO-Torneo-DMURILLO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{27501E19-6FDD-0674-689E-517BAB58AFDB}|POO-Torneo-DMURILLO\\POO-Torneo-DMURILLO.csproj|c:\\torneopoo_dmurillo\\poo-dmurillo\\poo-torneo-dmurillo\\poo-torneo-dmurillo\\models\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27501E19-6FDD-0674-689E-517BAB58AFDB}|POO-Torneo-DMURILLO\\POO-Torneo-DMURILLO.csproj|solutionrelative:poo-torneo-dmurillo\\models\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{27501E19-6FDD-0674-689E-517BAB58AFDB}|POO-Torneo-DMURILLO\\POO-Torneo-DMURILLO.csproj|c:\\torneopoo_dmurillo\\poo-dmurillo\\poo-torneo-dmurillo\\poo-torneo-dmurillo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27501E19-6FDD-0674-689E-517BAB58AFDB}|POO-Torneo-DMURILLO\\POO-Torneo-DMURILLO.csproj|solutionrelative:poo-torneo-dmurillo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27501E19-6FDD-0674-689E-517BAB58AFDB}|POO-Torneo-DMURILLO\\POO-Torneo-DMURILLO.csproj|c:\\torneopoo_dmurillo\\poo-dmurillo\\poo-torneo-dmurillo\\poo-torneo-dmurillo\\models\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27501E19-6FDD-0674-689E-517BAB58AFDB}|POO-Torneo-DMURILLO\\POO-Torneo-DMURILLO.csproj|solutionrelative:poo-torneo-dmurillo\\models\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27501E19-6FDD-0674-689E-517BAB58AFDB}|POO-Torneo-DMURILLO\\POO-Torneo-DMURILLO.csproj|c:\\torneopoo_dmurillo\\poo-dmurillo\\poo-torneo-dmurillo\\poo-torneo-dmurillo\\models\\partido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27501E19-6FDD-0674-689E-517BAB58AFDB}|POO-Torneo-DMURILLO\\POO-Torneo-DMURILLO.csproj|solutionrelative:poo-torneo-dmurillo\\models\\partido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Partido.cs",
+              "DocumentMoniker": "C:\\TorneoPOO_DMURILLO\\POO-DMURILLO\\POO-Torneo-DMURILLO\\POO-Torneo-DMURILLO\\Models\\Partido.cs",
+              "RelativeDocumentMoniker": "POO-Torneo-DMURILLO\\Models\\Partido.cs",
+              "ToolTip": "C:\\TorneoPOO_DMURILLO\\POO-DMURILLO\\POO-Torneo-DMURILLO\\POO-Torneo-DMURILLO\\Models\\Partido.cs",
+              "RelativeToolTip": "POO-Torneo-DMURILLO\\Models\\Partido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T03:07:33.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\TorneoPOO_DMURILLO\\POO-DMURILLO\\POO-Torneo-DMURILLO\\POO-Torneo-DMURILLO\\Models\\Jugador.cs",
+              "RelativeDocumentMoniker": "POO-Torneo-DMURILLO\\Models\\Jugador.cs",
+              "ToolTip": "C:\\TorneoPOO_DMURILLO\\POO-DMURILLO\\POO-Torneo-DMURILLO\\POO-Torneo-DMURILLO\\Models\\Jugador.cs",
+              "RelativeToolTip": "POO-Torneo-DMURILLO\\Models\\Jugador.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T03:07:32.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "C:\\TorneoPOO_DMURILLO\\POO-DMURILLO\\POO-Torneo-DMURILLO\\POO-Torneo-DMURILLO\\Models\\Equipo.cs",
+              "RelativeDocumentMoniker": "POO-Torneo-DMURILLO\\Models\\Equipo.cs",
+              "ToolTip": "C:\\TorneoPOO_DMURILLO\\POO-DMURILLO\\POO-Torneo-DMURILLO\\POO-Torneo-DMURILLO\\Models\\Equipo.cs",
+              "RelativeToolTip": "POO-Torneo-DMURILLO\\Models\\Equipo.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T03:07:31.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\TorneoPOO_DMURILLO\\POO-DMURILLO\\POO-Torneo-DMURILLO\\POO-Torneo-DMURILLO\\Program.cs",
               "RelativeDocumentMoniker": "POO-Torneo-DMURILLO\\Program.cs",
               "ToolTip": "C:\\TorneoPOO_DMURILLO\\POO-DMURILLO\\POO-Torneo-DMURILLO\\POO-Torneo-DMURILLO\\Program.cs",
               "RelativeToolTip": "POO-Torneo-DMURILLO\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-08T02:10:08.496Z",
               "EditorCaption": ""

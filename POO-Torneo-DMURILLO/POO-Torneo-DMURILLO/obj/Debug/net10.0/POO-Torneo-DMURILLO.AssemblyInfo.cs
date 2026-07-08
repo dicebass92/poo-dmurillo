@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POO-Torneo-DMURILLO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+036ff624eebd5d51b54bfb2318111b7505ec4441")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48dfe14b0db0f11b03e443f64bbf2f2a82f5af05")]
 [assembly: System.Reflection.AssemblyProductAttribute("POO-Torneo-DMURILLO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POO-Torneo-DMURILLO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
