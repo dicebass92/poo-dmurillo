@@ -63,5 +63,9 @@ namespace POO_Torneo_DMURILLO.Models
             }
         }
 
+        public void CambiarDeEquipo(string nombre, string equipoActual, string nuevoEquipo) { }
+        public void CambiarDeNumero(string nombre, int numero) { }
+        public void CambiarDePosicion(string nombre, string posicion) { }
+
     }
 }

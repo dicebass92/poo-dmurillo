@@ -44,6 +44,10 @@ namespace POO_Torneo_DMURILLO.Models
             }
         }
 
+        public void EliminarJugador(string nombre) { }
+        public void ListarPorPosicion(string posicion) { }
+        public void BuscarJugadorPorNombre(string nombre) { }
+
         public void ListarPlantilla()
         {
             Console.WriteLine($"La lista de jugadores del equipo {this.Nombre} de la ciudad de {this.Ciudad} es:");
